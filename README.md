@@ -1,13 +1,13 @@
 # entry-point
-Python program used to create, organize, and manage daily digital journal 
-entries. Designed to be a minimalist, command-line focused program.
+Command line Python program used to create, organize, and manage daily digital 
+journal entries in markdown format. 
 
 ## Motivation
-
-Writing thoughts down in an unstructured, non-goal oriented way before starting 
-computer-related work can increase focus. Allowing your computer to hold
-what is in your mind can help unload. Archiving thoughts in text format is
-also valuable for analysis at a later date if desired.
+I've found that writing thoughts down in an unstructured, non-goal oriented way 
+before starting work increases my focus. Allowing a computer to store thoughts 
+as they arise keeps me on track. Archiving thoughts in txt/md format is
+also valuable for analysis at a later date if desired. This program was created
+to allow me to quickly access my digital journal from any terminal.
 
 ## Usage
 1. Clone repository
