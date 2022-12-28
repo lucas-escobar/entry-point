@@ -2,7 +2,7 @@ import arghandler
 
 
 def main():
-    parser = arghandler.arghandler.get_argparser()
+    parser = arghandler.get_argparser()
     parser.parse_args()
 
 
